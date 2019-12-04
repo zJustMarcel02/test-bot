@@ -83,3 +83,5 @@ bot.on("message", message => {
     message.member.send('Your `registration` has been put on the waiting list!\nPlease contact the bot owner: <@!324922638411628554> via DM / PM\nif it does not happen :wink:\nHave Fun and test your Ping with: `!ping`')
   }
 })
+
+bot.login("NjUwNzg2Nzk2OTAwMTg4MTkw.XefXBg.9SaC3nmPe9HgRMJzPeVJgq1snTU")
